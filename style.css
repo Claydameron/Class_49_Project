@@ -1,0 +1,16 @@
+.head{
+    background-color: rgb(0, 217, 255);
+}
+
+.head2{
+    background-color: rgb(111, 229, 250)
+}
+
+.head3{
+    background-color: rgb(0, 217, 255);
+}
+
+::selection {
+    color: rgb(255,255,255);
+    background: rgb(0,0,0);
+  }
